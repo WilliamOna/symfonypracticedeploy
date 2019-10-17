@@ -25,7 +25,7 @@ class HelloController
       {
   
           return new Response(
-              '<html><body>Symfony app v1</body></html>'
+              '<html><body>Symfony app v2. BITCH</body></html>'
           );
       }
 }
